@@ -50,4 +50,4 @@ python main.py
 
 ## Author
 
-Khushi Chauhan
+Rachna Singh
